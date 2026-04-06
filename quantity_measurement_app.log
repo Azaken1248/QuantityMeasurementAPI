@@ -1,0 +1,1309 @@
+2026-04-06T14:19:58.676+05:30  INFO 31432 --- [main] .s.q.c.QuantityMeasurementControllerTest : Starting QuantityMeasurementControllerTest using Java 21.0.10 with PID 31432 (started by rsin3607 in C:\Users\rsin3607\OneDrive - 7-Eleven, Inc\Desktop\development\7-11apps\CoreProgrammingApps\quantity-measurement-app\quantity-measurement-app)
+2026-04-06T14:19:58.699+05:30  INFO 31432 --- [main] .s.q.c.QuantityMeasurementControllerTest : No active profile set, falling back to 1 default profile: "default"
+2026-04-06T14:20:01.329+05:30  WARN 31432 --- [main] .s.s.UserDetailsServiceAutoConfiguration : 
+
+Using generated security password: 9508d17d-0c42-4ace-a9ca-1a6b6aa73b6b
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2026-04-06T14:20:01.593+05:30  INFO 31432 --- [main] .s.q.c.QuantityMeasurementControllerTest : Started QuantityMeasurementControllerTest in 3.416 seconds (process running for 4.81)
+2026-04-06T14:20:01.884+05:30  INFO 31432 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:20:01.887+05:30  INFO 31432 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: INCHES for measurement type: LengthUnit
+2026-04-06T14:20:01.948+05:30  INFO 31432 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:20:01.949+05:30  INFO 31432 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: INCHES for measurement type: LengthUnit
+2026-04-06T14:20:02.034+05:30  INFO 31432 --- [main] .s.q.QuantityMeasurementApplicationTests : Starting QuantityMeasurementApplicationTests using Java 21.0.10 with PID 31432 (started by rsin3607 in C:\Users\rsin3607\OneDrive - 7-Eleven, Inc\Desktop\development\7-11apps\CoreProgrammingApps\quantity-measurement-app\quantity-measurement-app)
+2026-04-06T14:20:02.035+05:30  INFO 31432 --- [main] .s.q.QuantityMeasurementApplicationTests : No active profile set, falling back to 1 default profile: "default"
+2026-04-06T14:20:06.948+05:30  WARN 31432 --- [main] .s.s.UserDetailsServiceAutoConfiguration : 
+
+Using generated security password: 71f094eb-d7ca-4faf-9b8d-9ade99aa7408
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2026-04-06T14:20:07.762+05:30  INFO 31432 --- [main] .s.q.QuantityMeasurementApplicationTests : Started QuantityMeasurementApplicationTests in 5.774 seconds (process running for 10.979)
+2026-04-06T14:20:07.950+05:30  INFO 31432 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:20:07.951+05:30  INFO 31432 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: INCHES for measurement type: LengthUnit
+2026-04-06T14:20:08.222+05:30  INFO 31432 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:20:08.222+05:30  INFO 31432 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: INCHES for measurement type: LengthUnit
+2026-04-06T14:20:08.253+05:30  INFO 31432 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: GALLON for measurement type: VolumeUnit
+2026-04-06T14:20:08.254+05:30  INFO 31432 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: LITRE for measurement type: VolumeUnit
+2026-04-06T14:20:08.282+05:30  INFO 31432 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FAHRENHEIT for measurement type: TemperatureUnit
+2026-04-06T14:20:08.283+05:30  INFO 31432 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: CELSIUS for measurement type: TemperatureUnit
+2026-04-06T14:20:08.312+05:30  INFO 31432 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: CELSIUS for measurement type: TemperatureUnit
+2026-04-06T14:20:08.313+05:30  INFO 31432 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FAHRENHEIT for measurement type: TemperatureUnit
+2026-04-06T14:20:08.345+05:30  INFO 31432 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: GALLON for measurement type: VolumeUnit
+2026-04-06T14:20:08.345+05:30  INFO 31432 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: LITRE for measurement type: VolumeUnit
+2026-04-06T14:20:08.376+05:30  INFO 31432 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:20:08.377+05:30  INFO 31432 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: INCHES for measurement type: LengthUnit
+2026-04-06T14:20:08.378+05:30  INFO 31432 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: INCHES for measurement type: LengthUnit
+2026-04-06T14:20:08.392+05:30  INFO 31432 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:20:08.393+05:30  INFO 31432 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: INCHES for measurement type: LengthUnit
+2026-04-06T14:20:08.423+05:30  INFO 31432 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:20:08.424+05:30  INFO 31432 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: INCHES for measurement type: LengthUnit
+2026-04-06T14:20:08.424+05:30  INFO 31432 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: INCHES for measurement type: LengthUnit
+2026-04-06T14:20:08.454+05:30  INFO 31432 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: YARDS for measurement type: LengthUnit
+2026-04-06T14:20:08.455+05:30  INFO 31432 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:20:08.657+05:30  INFO 31432 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: YARDS for measurement type: LengthUnit
+2026-04-06T14:20:08.658+05:30  INFO 31432 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:20:08.659+05:30 ERROR 31432 --- [http-nio-127.0.0.1-auto-1-exec-5] c.s.q.s.QuantityMeasurementServiceImpl   : Operation failed: Division by zero
+2026-04-06T14:20:08.670+05:30 ERROR 31432 --- [http-nio-127.0.0.1-auto-1-exec-5] c.s.q.exception.GlobalExceptionHandler   : Handling global exception: Division by zero for request path: /api/v1/quantities/divide
+2026-04-06T14:20:08.705+05:30  INFO 31432 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: BAD_UNIT for measurement type: LengthUnit
+2026-04-06T14:20:08.705+05:30  INFO 31432 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:20:08.713+05:30  INFO 31432 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: BAD_TYPE
+2026-04-06T14:20:08.714+05:30  INFO 31432 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:20:08.725+05:30  INFO 31432 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:20:08.727+05:30  INFO 31432 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: INCHES for measurement type: LengthUnit
+2026-04-06T14:20:08.742+05:30  INFO 31432 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:20:08.742+05:30  INFO 31432 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: INCHES for measurement type: LengthUnit
+2026-04-06T14:20:08.757+05:30  INFO 31432 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:20:08.757+05:30  INFO 31432 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:20:08.792+05:30 ERROR 31432 --- [http-nio-127.0.0.1-auto-1-exec-9] c.s.q.exception.GlobalExceptionHandler   : Handling global exception: No static resource h2-console. for request path: /h2-console
+2026-04-06T14:20:08.908+05:30 ERROR 31432 --- [main] c.s.q.exception.GlobalExceptionHandler   : Handling global exception: No acceptable representation for request path: /api/v1/quantities/history/errored
+2026-04-06T14:20:08.909+05:30  WARN 31432 --- [main] .m.m.a.ExceptionHandlerExceptionResolver : Failure in @ExceptionHandler com.seveneleven.quantity_measurement_app.exception.GlobalExceptionHandler#handleGlobalException(Exception, WebRequest)
+
+org.springframework.web.HttpMediaTypeNotAcceptableException: No acceptable representation
+	at org.springframework.web.servlet.mvc.method.annotation.AbstractMessageConverterMethodProcessor.writeWithMessageConverters(AbstractMessageConverterMethodProcessor.java:256) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at org.springframework.web.servlet.mvc.method.annotation.HttpEntityMethodProcessor.handleReturnValue(HttpEntityMethodProcessor.java:245) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at org.springframework.web.method.support.HandlerMethodReturnValueHandlerComposite.handleReturnValue(HandlerMethodReturnValueHandlerComposite.java:78) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:136) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver.doResolveHandlerMethodException(ExceptionHandlerExceptionResolver.java:432) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodExceptionResolver.doResolveException(AbstractHandlerMethodExceptionResolver.java:74) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver.resolveException(AbstractHandlerExceptionResolver.java:175) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at org.springframework.web.servlet.handler.HandlerExceptionResolverComposite.resolveException(HandlerExceptionResolverComposite.java:80) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at org.springframework.web.servlet.DispatcherServlet.processHandlerException(DispatcherServlet.java:1357) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at org.springframework.test.web.servlet.TestDispatcherServlet.processHandlerException(TestDispatcherServlet.java:144) ~[spring-test-6.1.5.jar:6.1.5]
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1160) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1106) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564) ~[tomcat-embed-core-10.1.19.jar:6.0]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at org.springframework.test.web.servlet.TestDispatcherServlet.service(TestDispatcherServlet.java:72) ~[spring-test-6.1.5.jar:6.1.5]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) ~[tomcat-embed-core-10.1.19.jar:6.0]
+	at org.springframework.mock.web.MockFilterChain$ServletFilterProxy.doFilter(MockFilterChain.java:165) ~[spring-test-6.1.5.jar:6.1.5]
+	at org.springframework.mock.web.MockFilterChain.doFilter(MockFilterChain.java:132) ~[spring-test-6.1.5.jar:6.1.5]
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:108) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.security.web.FilterChainProxy.lambda$doFilterInternal$3(FilterChainProxy.java:231) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$FilterObservation$SimpleFilterObservation.lambda$wrap$1(ObservationFilterChainDecorator.java:479) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$AroundFilterObservation$SimpleAroundFilterObservation.lambda$wrap$1(ObservationFilterChainDecorator.java:340) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator.lambda$wrapSecured$0(ObservationFilterChainDecorator.java:82) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:128) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.access.intercept.AuthorizationFilter.doFilter(AuthorizationFilter.java:100) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:126) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:120) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.session.SessionManagementFilter.doFilter(SessionManagementFilter.java:131) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.session.SessionManagementFilter.doFilter(SessionManagementFilter.java:85) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.authentication.AnonymousAuthenticationFilter.doFilter(AnonymousAuthenticationFilter.java:100) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:179) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.savedrequest.RequestCacheAwareFilter.doFilter(RequestCacheAwareFilter.java:63) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:107) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:93) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.CorsFilter.doFilterInternal(CorsFilter.java:91) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.header.HeaderWriterFilter.doHeadersAfter(HeaderWriterFilter.java:90) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:75) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:82) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:69) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:62) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.session.DisableEncodeUrlFilter.doFilterInternal(DisableEncodeUrlFilter.java:42) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$AroundFilterObservation$SimpleAroundFilterObservation.lambda$wrap$0(ObservationFilterChainDecorator.java:323) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:224) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:233) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:191) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:113) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.web.servlet.handler.HandlerMappingIntrospector.lambda$createCacheFilter$3(HandlerMappingIntrospector.java:195) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:113) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.web.filter.CompositeFilter.doFilter(CompositeFilter.java:74) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.security.config.annotation.web.configuration.WebMvcSecurityConfiguration$CompositeFilterChainProxy.doFilter(WebMvcSecurityConfiguration.java:230) ~[spring-security-config-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:352) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:268) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.test.web.servlet.setup.MockMvcFilterDecorator.doFilter(MockMvcFilterDecorator.java:151) ~[spring-test-6.1.5.jar:6.1.5]
+	at org.springframework.mock.web.MockFilterChain.doFilter(MockFilterChain.java:132) ~[spring-test-6.1.5.jar:6.1.5]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.test.web.servlet.setup.MockMvcFilterDecorator.doFilter(MockMvcFilterDecorator.java:151) ~[spring-test-6.1.5.jar:6.1.5]
+	at org.springframework.mock.web.MockFilterChain.doFilter(MockFilterChain.java:132) ~[spring-test-6.1.5.jar:6.1.5]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.test.web.servlet.setup.MockMvcFilterDecorator.doFilter(MockMvcFilterDecorator.java:151) ~[spring-test-6.1.5.jar:6.1.5]
+	at org.springframework.mock.web.MockFilterChain.doFilter(MockFilterChain.java:132) ~[spring-test-6.1.5.jar:6.1.5]
+	at org.springframework.web.filter.ServerHttpObservationFilter.doFilterInternal(ServerHttpObservationFilter.java:109) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.test.web.servlet.setup.MockMvcFilterDecorator.doFilter(MockMvcFilterDecorator.java:151) ~[spring-test-6.1.5.jar:6.1.5]
+	at org.springframework.mock.web.MockFilterChain.doFilter(MockFilterChain.java:132) ~[spring-test-6.1.5.jar:6.1.5]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.test.web.servlet.setup.MockMvcFilterDecorator.doFilter(MockMvcFilterDecorator.java:151) ~[spring-test-6.1.5.jar:6.1.5]
+	at org.springframework.mock.web.MockFilterChain.doFilter(MockFilterChain.java:132) ~[spring-test-6.1.5.jar:6.1.5]
+	at org.springframework.test.web.servlet.MockMvc.perform(MockMvc.java:201) ~[spring-test-6.1.5.jar:6.1.5]
+	at com.seveneleven.quantity_measurement_app.QuantityMeasurementApplicationTests.testContentNegotiation_XML(QuantityMeasurementApplicationTests.java:244) ~[test-classes/:na]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[na:na]
+	at org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:728) ~[junit-platform-commons-1.10.2.jar:1.10.2]
+	at org.junit.jupiter.engine.execution.MethodInvocation.proceed(MethodInvocation.java:60) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$ValidatingInvocation.proceed(InvocationInterceptorChain.java:131) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.extension.TimeoutExtension.intercept(TimeoutExtension.java:156) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestableMethod(TimeoutExtension.java:147) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestMethod(TimeoutExtension.java:86) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker$ReflectiveInterceptorCall.lambda$ofVoidMethod$0(InterceptingExecutableInvoker.java:103) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.lambda$invoke$0(InterceptingExecutableInvoker.java:93) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$InterceptedInvocation.proceed(InvocationInterceptorChain.java:106) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.proceed(InvocationInterceptorChain.java:64) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.chainAndInvoke(InvocationInterceptorChain.java:45) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.invoke(InvocationInterceptorChain.java:37) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.invoke(InterceptingExecutableInvoker.java:92) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.invoke(InterceptingExecutableInvoker.java:86) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeTestMethod$7(TestMethodTestDescriptor.java:218) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestMethod(TestMethodTestDescriptor.java:214) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:139) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:69) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:151) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596) ~[na:na]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596) ~[na:na]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:198) ~[junit-platform-launcher-1.10.2.jar:1.10.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:169) ~[junit-platform-launcher-1.10.2.jar:1.10.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:93) ~[junit-platform-launcher-1.10.2.jar:1.10.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:58) ~[junit-platform-launcher-1.10.2.jar:1.10.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:141) ~[junit-platform-launcher-1.10.2.jar:1.10.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:57) ~[junit-platform-launcher-1.10.2.jar:1.10.2]
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:103) ~[junit-platform-launcher-1.10.2.jar:1.10.2]
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:85) ~[junit-platform-launcher-1.10.2.jar:1.10.2]
+	at org.junit.platform.launcher.core.DelegatingLauncher.execute(DelegatingLauncher.java:47) ~[junit-platform-launcher-1.10.2.jar:1.10.2]
+	at org.apache.maven.surefire.junitplatform.LazyLauncher.execute(LazyLauncher.java:56) ~[surefire-junit-platform-3.1.2.jar:3.1.2]
+	at org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.execute(JUnitPlatformProvider.java:184) ~[surefire-junit-platform-3.1.2.jar:3.1.2]
+	at org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.invokeAllTests(JUnitPlatformProvider.java:148) ~[surefire-junit-platform-3.1.2.jar:3.1.2]
+	at org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.invoke(JUnitPlatformProvider.java:122) ~[surefire-junit-platform-3.1.2.jar:3.1.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385) ~[surefire-booter-3.1.2.jar:3.1.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162) ~[surefire-booter-3.1.2.jar:3.1.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507) ~[surefire-booter-3.1.2.jar:3.1.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495) ~[surefire-booter-3.1.2.jar:3.1.2]
+
+2026-04-06T14:20:08.915+05:30  WARN 31432 --- [main] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpMediaTypeNotAcceptableException: No acceptable representation]
+2026-04-06T14:20:08.961+05:30  INFO 31432 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:20:08.961+05:30  INFO 31432 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:20:08.983+05:30  INFO 31432 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:20:08.984+05:30  INFO 31432 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: INCHES for measurement type: LengthUnit
+2026-04-06T14:20:08.993+05:30  INFO 31432 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:20:08.994+05:30  INFO 31432 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: INCHES for measurement type: LengthUnit
+2026-04-06T14:20:09.040+05:30  INFO 31432 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:20:09.040+05:30  INFO 31432 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:20:09.079+05:30  INFO 31432 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: YARDS for measurement type: LengthUnit
+2026-04-06T14:20:09.080+05:30  INFO 31432 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:20:09.081+05:30 ERROR 31432 --- [http-nio-127.0.0.1-auto-1-exec-3] c.s.q.s.QuantityMeasurementServiceImpl   : Operation failed: Division by zero
+2026-04-06T14:20:09.090+05:30 ERROR 31432 --- [http-nio-127.0.0.1-auto-1-exec-3] c.s.q.exception.GlobalExceptionHandler   : Handling global exception: Division by zero for request path: /api/v1/quantities/divide
+2026-04-06T14:20:42.676+05:30  INFO 34764 --- [main] .s.q.c.QuantityMeasurementControllerTest : Starting QuantityMeasurementControllerTest using Java 21.0.10 with PID 34764 (started by rsin3607 in C:\Users\rsin3607\OneDrive - 7-Eleven, Inc\Desktop\development\7-11apps\CoreProgrammingApps\quantity-measurement-app\quantity-measurement-app)
+2026-04-06T14:20:42.679+05:30  INFO 34764 --- [main] .s.q.c.QuantityMeasurementControllerTest : No active profile set, falling back to 1 default profile: "default"
+2026-04-06T14:20:45.130+05:30  WARN 34764 --- [main] .s.s.UserDetailsServiceAutoConfiguration : 
+
+Using generated security password: bd9a12ae-24b0-480e-b7c7-b4f7bc1ce31f
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2026-04-06T14:20:45.372+05:30  INFO 34764 --- [main] .s.q.c.QuantityMeasurementControllerTest : Started QuantityMeasurementControllerTest in 3.158 seconds (process running for 4.449)
+2026-04-06T14:20:45.676+05:30  INFO 34764 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:20:45.679+05:30  INFO 34764 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: INCHES for measurement type: LengthUnit
+2026-04-06T14:20:45.742+05:30  INFO 34764 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:20:45.742+05:30  INFO 34764 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: INCHES for measurement type: LengthUnit
+2026-04-06T14:20:45.827+05:30  INFO 34764 --- [main] .s.q.QuantityMeasurementApplicationTests : Starting QuantityMeasurementApplicationTests using Java 21.0.10 with PID 34764 (started by rsin3607 in C:\Users\rsin3607\OneDrive - 7-Eleven, Inc\Desktop\development\7-11apps\CoreProgrammingApps\quantity-measurement-app\quantity-measurement-app)
+2026-04-06T14:20:45.829+05:30  INFO 34764 --- [main] .s.q.QuantityMeasurementApplicationTests : No active profile set, falling back to 1 default profile: "default"
+2026-04-06T14:20:50.379+05:30  WARN 34764 --- [main] .s.s.UserDetailsServiceAutoConfiguration : 
+
+Using generated security password: fd0c7180-137a-4bb5-b3b7-b13617bfe946
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2026-04-06T14:20:51.177+05:30  INFO 34764 --- [main] .s.q.QuantityMeasurementApplicationTests : Started QuantityMeasurementApplicationTests in 5.393 seconds (process running for 10.254)
+2026-04-06T14:20:51.364+05:30  INFO 34764 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:20:51.365+05:30  INFO 34764 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: INCHES for measurement type: LengthUnit
+2026-04-06T14:20:51.567+05:30  INFO 34764 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:20:51.568+05:30  INFO 34764 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: INCHES for measurement type: LengthUnit
+2026-04-06T14:20:51.599+05:30  INFO 34764 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: GALLON for measurement type: VolumeUnit
+2026-04-06T14:20:51.600+05:30  INFO 34764 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: LITRE for measurement type: VolumeUnit
+2026-04-06T14:20:51.631+05:30  INFO 34764 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FAHRENHEIT for measurement type: TemperatureUnit
+2026-04-06T14:20:51.632+05:30  INFO 34764 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: CELSIUS for measurement type: TemperatureUnit
+2026-04-06T14:20:51.663+05:30  INFO 34764 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: CELSIUS for measurement type: TemperatureUnit
+2026-04-06T14:20:51.664+05:30  INFO 34764 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FAHRENHEIT for measurement type: TemperatureUnit
+2026-04-06T14:20:51.694+05:30  INFO 34764 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: GALLON for measurement type: VolumeUnit
+2026-04-06T14:20:51.695+05:30  INFO 34764 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: LITRE for measurement type: VolumeUnit
+2026-04-06T14:20:51.726+05:30  INFO 34764 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:20:51.727+05:30  INFO 34764 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: INCHES for measurement type: LengthUnit
+2026-04-06T14:20:51.727+05:30  INFO 34764 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: INCHES for measurement type: LengthUnit
+2026-04-06T14:20:51.757+05:30  INFO 34764 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:20:51.758+05:30  INFO 34764 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: INCHES for measurement type: LengthUnit
+2026-04-06T14:20:51.774+05:30  INFO 34764 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:20:51.775+05:30  INFO 34764 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: INCHES for measurement type: LengthUnit
+2026-04-06T14:20:51.776+05:30  INFO 34764 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: INCHES for measurement type: LengthUnit
+2026-04-06T14:20:51.805+05:30  INFO 34764 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: YARDS for measurement type: LengthUnit
+2026-04-06T14:20:51.806+05:30  INFO 34764 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:20:51.995+05:30  INFO 34764 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: YARDS for measurement type: LengthUnit
+2026-04-06T14:20:51.996+05:30  INFO 34764 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:20:52.003+05:30 ERROR 34764 --- [http-nio-127.0.0.1-auto-1-exec-4] c.s.q.s.QuantityMeasurementServiceImpl   : Operation failed: Division by zero
+2026-04-06T14:20:52.017+05:30 ERROR 34764 --- [http-nio-127.0.0.1-auto-1-exec-4] c.s.q.exception.GlobalExceptionHandler   : Handling global exception: Division by zero for request path: /api/v1/quantities/divide
+2026-04-06T14:20:52.059+05:30  INFO 34764 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: BAD_UNIT for measurement type: LengthUnit
+2026-04-06T14:20:52.060+05:30  INFO 34764 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:20:52.068+05:30  INFO 34764 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: BAD_TYPE
+2026-04-06T14:20:52.069+05:30  INFO 34764 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:20:52.083+05:30  INFO 34764 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:20:52.083+05:30  INFO 34764 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: INCHES for measurement type: LengthUnit
+2026-04-06T14:20:52.098+05:30  INFO 34764 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:20:52.098+05:30  INFO 34764 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: INCHES for measurement type: LengthUnit
+2026-04-06T14:20:52.113+05:30  INFO 34764 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:20:52.114+05:30  INFO 34764 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:20:52.150+05:30 ERROR 34764 --- [http-nio-127.0.0.1-auto-1-exec-9] c.s.q.exception.GlobalExceptionHandler   : Handling global exception: No static resource h2-console. for request path: /h2-console
+2026-04-06T14:20:52.270+05:30 ERROR 34764 --- [main] c.s.q.exception.GlobalExceptionHandler   : Handling global exception: No acceptable representation for request path: /api/v1/quantities/history/errored
+2026-04-06T14:20:52.271+05:30  WARN 34764 --- [main] .m.m.a.ExceptionHandlerExceptionResolver : Failure in @ExceptionHandler com.seveneleven.quantity_measurement_app.exception.GlobalExceptionHandler#handleGlobalException(Exception, WebRequest)
+
+org.springframework.web.HttpMediaTypeNotAcceptableException: No acceptable representation
+	at org.springframework.web.servlet.mvc.method.annotation.AbstractMessageConverterMethodProcessor.writeWithMessageConverters(AbstractMessageConverterMethodProcessor.java:256) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at org.springframework.web.servlet.mvc.method.annotation.HttpEntityMethodProcessor.handleReturnValue(HttpEntityMethodProcessor.java:245) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at org.springframework.web.method.support.HandlerMethodReturnValueHandlerComposite.handleReturnValue(HandlerMethodReturnValueHandlerComposite.java:78) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:136) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver.doResolveHandlerMethodException(ExceptionHandlerExceptionResolver.java:432) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodExceptionResolver.doResolveException(AbstractHandlerMethodExceptionResolver.java:74) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver.resolveException(AbstractHandlerExceptionResolver.java:175) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at org.springframework.web.servlet.handler.HandlerExceptionResolverComposite.resolveException(HandlerExceptionResolverComposite.java:80) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at org.springframework.web.servlet.DispatcherServlet.processHandlerException(DispatcherServlet.java:1357) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at org.springframework.test.web.servlet.TestDispatcherServlet.processHandlerException(TestDispatcherServlet.java:144) ~[spring-test-6.1.5.jar:6.1.5]
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1160) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1106) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564) ~[tomcat-embed-core-10.1.19.jar:6.0]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at org.springframework.test.web.servlet.TestDispatcherServlet.service(TestDispatcherServlet.java:72) ~[spring-test-6.1.5.jar:6.1.5]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) ~[tomcat-embed-core-10.1.19.jar:6.0]
+	at org.springframework.mock.web.MockFilterChain$ServletFilterProxy.doFilter(MockFilterChain.java:165) ~[spring-test-6.1.5.jar:6.1.5]
+	at org.springframework.mock.web.MockFilterChain.doFilter(MockFilterChain.java:132) ~[spring-test-6.1.5.jar:6.1.5]
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:108) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.security.web.FilterChainProxy.lambda$doFilterInternal$3(FilterChainProxy.java:231) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$FilterObservation$SimpleFilterObservation.lambda$wrap$1(ObservationFilterChainDecorator.java:479) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$AroundFilterObservation$SimpleAroundFilterObservation.lambda$wrap$1(ObservationFilterChainDecorator.java:340) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator.lambda$wrapSecured$0(ObservationFilterChainDecorator.java:82) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:128) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.access.intercept.AuthorizationFilter.doFilter(AuthorizationFilter.java:100) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:126) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:120) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.session.SessionManagementFilter.doFilter(SessionManagementFilter.java:131) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.session.SessionManagementFilter.doFilter(SessionManagementFilter.java:85) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.authentication.AnonymousAuthenticationFilter.doFilter(AnonymousAuthenticationFilter.java:100) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:179) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.savedrequest.RequestCacheAwareFilter.doFilter(RequestCacheAwareFilter.java:63) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:107) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:93) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.CorsFilter.doFilterInternal(CorsFilter.java:91) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.header.HeaderWriterFilter.doHeadersAfter(HeaderWriterFilter.java:90) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:75) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:82) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:69) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:62) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.session.DisableEncodeUrlFilter.doFilterInternal(DisableEncodeUrlFilter.java:42) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$AroundFilterObservation$SimpleAroundFilterObservation.lambda$wrap$0(ObservationFilterChainDecorator.java:323) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:224) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:233) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:191) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:113) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.web.servlet.handler.HandlerMappingIntrospector.lambda$createCacheFilter$3(HandlerMappingIntrospector.java:195) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:113) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.web.filter.CompositeFilter.doFilter(CompositeFilter.java:74) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.security.config.annotation.web.configuration.WebMvcSecurityConfiguration$CompositeFilterChainProxy.doFilter(WebMvcSecurityConfiguration.java:230) ~[spring-security-config-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:352) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:268) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.test.web.servlet.setup.MockMvcFilterDecorator.doFilter(MockMvcFilterDecorator.java:151) ~[spring-test-6.1.5.jar:6.1.5]
+	at org.springframework.mock.web.MockFilterChain.doFilter(MockFilterChain.java:132) ~[spring-test-6.1.5.jar:6.1.5]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.test.web.servlet.setup.MockMvcFilterDecorator.doFilter(MockMvcFilterDecorator.java:151) ~[spring-test-6.1.5.jar:6.1.5]
+	at org.springframework.mock.web.MockFilterChain.doFilter(MockFilterChain.java:132) ~[spring-test-6.1.5.jar:6.1.5]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.test.web.servlet.setup.MockMvcFilterDecorator.doFilter(MockMvcFilterDecorator.java:151) ~[spring-test-6.1.5.jar:6.1.5]
+	at org.springframework.mock.web.MockFilterChain.doFilter(MockFilterChain.java:132) ~[spring-test-6.1.5.jar:6.1.5]
+	at org.springframework.web.filter.ServerHttpObservationFilter.doFilterInternal(ServerHttpObservationFilter.java:109) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.test.web.servlet.setup.MockMvcFilterDecorator.doFilter(MockMvcFilterDecorator.java:151) ~[spring-test-6.1.5.jar:6.1.5]
+	at org.springframework.mock.web.MockFilterChain.doFilter(MockFilterChain.java:132) ~[spring-test-6.1.5.jar:6.1.5]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.test.web.servlet.setup.MockMvcFilterDecorator.doFilter(MockMvcFilterDecorator.java:151) ~[spring-test-6.1.5.jar:6.1.5]
+	at org.springframework.mock.web.MockFilterChain.doFilter(MockFilterChain.java:132) ~[spring-test-6.1.5.jar:6.1.5]
+	at org.springframework.test.web.servlet.MockMvc.perform(MockMvc.java:201) ~[spring-test-6.1.5.jar:6.1.5]
+	at com.seveneleven.quantity_measurement_app.QuantityMeasurementApplicationTests.testContentNegotiation_XML(QuantityMeasurementApplicationTests.java:244) ~[test-classes/:na]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[na:na]
+	at org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:728) ~[junit-platform-commons-1.10.2.jar:1.10.2]
+	at org.junit.jupiter.engine.execution.MethodInvocation.proceed(MethodInvocation.java:60) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$ValidatingInvocation.proceed(InvocationInterceptorChain.java:131) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.extension.TimeoutExtension.intercept(TimeoutExtension.java:156) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestableMethod(TimeoutExtension.java:147) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestMethod(TimeoutExtension.java:86) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker$ReflectiveInterceptorCall.lambda$ofVoidMethod$0(InterceptingExecutableInvoker.java:103) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.lambda$invoke$0(InterceptingExecutableInvoker.java:93) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$InterceptedInvocation.proceed(InvocationInterceptorChain.java:106) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.proceed(InvocationInterceptorChain.java:64) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.chainAndInvoke(InvocationInterceptorChain.java:45) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.invoke(InvocationInterceptorChain.java:37) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.invoke(InterceptingExecutableInvoker.java:92) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.invoke(InterceptingExecutableInvoker.java:86) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeTestMethod$7(TestMethodTestDescriptor.java:218) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestMethod(TestMethodTestDescriptor.java:214) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:139) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:69) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:151) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596) ~[na:na]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596) ~[na:na]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:198) ~[junit-platform-launcher-1.10.2.jar:1.10.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:169) ~[junit-platform-launcher-1.10.2.jar:1.10.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:93) ~[junit-platform-launcher-1.10.2.jar:1.10.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:58) ~[junit-platform-launcher-1.10.2.jar:1.10.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:141) ~[junit-platform-launcher-1.10.2.jar:1.10.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:57) ~[junit-platform-launcher-1.10.2.jar:1.10.2]
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:103) ~[junit-platform-launcher-1.10.2.jar:1.10.2]
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:85) ~[junit-platform-launcher-1.10.2.jar:1.10.2]
+	at org.junit.platform.launcher.core.DelegatingLauncher.execute(DelegatingLauncher.java:47) ~[junit-platform-launcher-1.10.2.jar:1.10.2]
+	at org.apache.maven.surefire.junitplatform.LazyLauncher.execute(LazyLauncher.java:56) ~[surefire-junit-platform-3.1.2.jar:3.1.2]
+	at org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.execute(JUnitPlatformProvider.java:184) ~[surefire-junit-platform-3.1.2.jar:3.1.2]
+	at org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.invokeAllTests(JUnitPlatformProvider.java:148) ~[surefire-junit-platform-3.1.2.jar:3.1.2]
+	at org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.invoke(JUnitPlatformProvider.java:122) ~[surefire-junit-platform-3.1.2.jar:3.1.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385) ~[surefire-booter-3.1.2.jar:3.1.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162) ~[surefire-booter-3.1.2.jar:3.1.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507) ~[surefire-booter-3.1.2.jar:3.1.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495) ~[surefire-booter-3.1.2.jar:3.1.2]
+
+2026-04-06T14:20:52.278+05:30  WARN 34764 --- [main] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpMediaTypeNotAcceptableException: No acceptable representation]
+2026-04-06T14:20:52.323+05:30  INFO 34764 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:20:52.324+05:30  INFO 34764 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:20:52.346+05:30  INFO 34764 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:20:52.347+05:30  INFO 34764 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: INCHES for measurement type: LengthUnit
+2026-04-06T14:20:52.357+05:30  INFO 34764 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:20:52.357+05:30  INFO 34764 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: INCHES for measurement type: LengthUnit
+2026-04-06T14:20:52.399+05:30  INFO 34764 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:20:52.399+05:30  INFO 34764 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:20:52.435+05:30  INFO 34764 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: YARDS for measurement type: LengthUnit
+2026-04-06T14:20:52.436+05:30  INFO 34764 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:20:52.437+05:30 ERROR 34764 --- [http-nio-127.0.0.1-auto-1-exec-3] c.s.q.s.QuantityMeasurementServiceImpl   : Operation failed: Division by zero
+2026-04-06T14:20:52.442+05:30 ERROR 34764 --- [http-nio-127.0.0.1-auto-1-exec-3] c.s.q.exception.GlobalExceptionHandler   : Handling global exception: Division by zero for request path: /api/v1/quantities/divide
+2026-04-06T14:24:37.405+05:30  INFO 25796 --- [restartedMain] c.s.q.QuantityMeasurementApplication     : Starting QuantityMeasurementApplication using Java 21.0.10 with PID 25796 (C:\Users\rsin3607\OneDrive - 7-Eleven, Inc\Desktop\development\7-11apps\CoreProgrammingApps\quantity-measurement-app\quantity-measurement-app\target\classes started by rsin3607 in C:\Users\rsin3607\OneDrive - 7-Eleven, Inc\Desktop\development\7-11apps\CoreProgrammingApps\quantity-measurement-app\quantity-measurement-app)
+2026-04-06T14:24:37.410+05:30  INFO 25796 --- [restartedMain] c.s.q.QuantityMeasurementApplication     : No active profile set, falling back to 1 default profile: "default"
+2026-04-06T14:24:42.631+05:30  WARN 25796 --- [restartedMain] .s.s.UserDetailsServiceAutoConfiguration : 
+
+Using generated security password: 831e59d0-1968-430e-b380-f8420846165e
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2026-04-06T14:24:43.692+05:30  INFO 25796 --- [restartedMain] c.s.q.QuantityMeasurementApplication     : Started QuantityMeasurementApplication in 6.74 seconds (process running for 7.486)
+2026-04-06T14:26:24.057+05:30  INFO 212 --- [main] .s.q.c.QuantityMeasurementControllerTest : Starting QuantityMeasurementControllerTest using Java 21.0.10 with PID 212 (started by rsin3607 in C:\Users\rsin3607\OneDrive - 7-Eleven, Inc\Desktop\development\7-11apps\CoreProgrammingApps\quantity-measurement-app\quantity-measurement-app)
+2026-04-06T14:26:24.061+05:30  INFO 212 --- [main] .s.q.c.QuantityMeasurementControllerTest : No active profile set, falling back to 1 default profile: "default"
+2026-04-06T14:26:26.464+05:30  WARN 212 --- [main] .s.s.UserDetailsServiceAutoConfiguration : 
+
+Using generated security password: 142e69da-19a6-4677-bf14-61b059d9b66f
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2026-04-06T14:26:26.704+05:30  INFO 212 --- [main] .s.q.c.QuantityMeasurementControllerTest : Started QuantityMeasurementControllerTest in 3.127 seconds (process running for 4.454)
+2026-04-06T14:26:26.991+05:30  INFO 212 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:26:26.993+05:30  INFO 212 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: INCHES for measurement type: LengthUnit
+2026-04-06T14:26:27.052+05:30  INFO 212 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:26:27.052+05:30  INFO 212 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: INCHES for measurement type: LengthUnit
+2026-04-06T14:26:27.124+05:30  INFO 212 --- [main] .s.q.QuantityMeasurementApplicationTests : Starting QuantityMeasurementApplicationTests using Java 21.0.10 with PID 212 (started by rsin3607 in C:\Users\rsin3607\OneDrive - 7-Eleven, Inc\Desktop\development\7-11apps\CoreProgrammingApps\quantity-measurement-app\quantity-measurement-app)
+2026-04-06T14:26:27.124+05:30  INFO 212 --- [main] .s.q.QuantityMeasurementApplicationTests : No active profile set, falling back to 1 default profile: "default"
+2026-04-06T14:26:31.727+05:30  WARN 212 --- [main] .s.s.UserDetailsServiceAutoConfiguration : 
+
+Using generated security password: fea4b6ec-3a15-4ec5-ae2f-5a9d0713b250
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2026-04-06T14:26:32.611+05:30  INFO 212 --- [main] .s.q.QuantityMeasurementApplicationTests : Started QuantityMeasurementApplicationTests in 5.522 seconds (process running for 10.361)
+2026-04-06T14:26:32.798+05:30  INFO 212 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:26:32.799+05:30  INFO 212 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: INCHES for measurement type: LengthUnit
+2026-04-06T14:26:33.001+05:30  INFO 212 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:26:33.001+05:30  INFO 212 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: INCHES for measurement type: LengthUnit
+2026-04-06T14:26:33.033+05:30  INFO 212 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: GALLON for measurement type: VolumeUnit
+2026-04-06T14:26:33.034+05:30  INFO 212 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: LITRE for measurement type: VolumeUnit
+2026-04-06T14:26:33.065+05:30  INFO 212 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FAHRENHEIT for measurement type: TemperatureUnit
+2026-04-06T14:26:33.066+05:30  INFO 212 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: CELSIUS for measurement type: TemperatureUnit
+2026-04-06T14:26:33.096+05:30  INFO 212 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: CELSIUS for measurement type: TemperatureUnit
+2026-04-06T14:26:33.097+05:30  INFO 212 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FAHRENHEIT for measurement type: TemperatureUnit
+2026-04-06T14:26:33.128+05:30  INFO 212 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: GALLON for measurement type: VolumeUnit
+2026-04-06T14:26:33.129+05:30  INFO 212 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: LITRE for measurement type: VolumeUnit
+2026-04-06T14:26:33.158+05:30  INFO 212 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:26:33.159+05:30  INFO 212 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: INCHES for measurement type: LengthUnit
+2026-04-06T14:26:33.159+05:30  INFO 212 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: INCHES for measurement type: LengthUnit
+2026-04-06T14:26:33.189+05:30  INFO 212 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:26:33.190+05:30  INFO 212 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: INCHES for measurement type: LengthUnit
+2026-04-06T14:26:33.205+05:30  INFO 212 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:26:33.206+05:30  INFO 212 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: INCHES for measurement type: LengthUnit
+2026-04-06T14:26:33.206+05:30  INFO 212 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: INCHES for measurement type: LengthUnit
+2026-04-06T14:26:33.221+05:30  INFO 212 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: YARDS for measurement type: LengthUnit
+2026-04-06T14:26:33.222+05:30  INFO 212 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:26:33.410+05:30  INFO 212 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: YARDS for measurement type: LengthUnit
+2026-04-06T14:26:33.411+05:30  INFO 212 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:26:33.412+05:30 ERROR 212 --- [http-nio-127.0.0.1-auto-1-exec-4] c.s.q.s.QuantityMeasurementServiceImpl   : Operation failed: Division by zero
+2026-04-06T14:26:33.422+05:30 ERROR 212 --- [http-nio-127.0.0.1-auto-1-exec-4] c.s.q.exception.GlobalExceptionHandler   : Handling global exception: Division by zero for request path: /api/v1/quantities/divide
+2026-04-06T14:26:33.457+05:30  INFO 212 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: BAD_UNIT for measurement type: LengthUnit
+2026-04-06T14:26:33.458+05:30  INFO 212 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:26:33.466+05:30  INFO 212 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: BAD_TYPE
+2026-04-06T14:26:33.468+05:30  INFO 212 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:26:33.480+05:30  INFO 212 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:26:33.480+05:30  INFO 212 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: INCHES for measurement type: LengthUnit
+2026-04-06T14:26:33.493+05:30  INFO 212 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:26:33.493+05:30  INFO 212 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: INCHES for measurement type: LengthUnit
+2026-04-06T14:26:33.506+05:30  INFO 212 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:26:33.506+05:30  INFO 212 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:26:33.540+05:30 ERROR 212 --- [http-nio-127.0.0.1-auto-1-exec-9] c.s.q.exception.GlobalExceptionHandler   : Handling global exception: No static resource h2-console. for request path: /h2-console
+2026-04-06T14:26:33.663+05:30 ERROR 212 --- [main] c.s.q.exception.GlobalExceptionHandler   : Handling global exception: No acceptable representation for request path: /api/v1/quantities/history/errored
+2026-04-06T14:26:33.664+05:30  WARN 212 --- [main] .m.m.a.ExceptionHandlerExceptionResolver : Failure in @ExceptionHandler com.seveneleven.quantity_measurement_app.exception.GlobalExceptionHandler#handleGlobalException(Exception, WebRequest)
+
+org.springframework.web.HttpMediaTypeNotAcceptableException: No acceptable representation
+	at org.springframework.web.servlet.mvc.method.annotation.AbstractMessageConverterMethodProcessor.writeWithMessageConverters(AbstractMessageConverterMethodProcessor.java:256) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at org.springframework.web.servlet.mvc.method.annotation.HttpEntityMethodProcessor.handleReturnValue(HttpEntityMethodProcessor.java:245) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at org.springframework.web.method.support.HandlerMethodReturnValueHandlerComposite.handleReturnValue(HandlerMethodReturnValueHandlerComposite.java:78) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:136) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver.doResolveHandlerMethodException(ExceptionHandlerExceptionResolver.java:432) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodExceptionResolver.doResolveException(AbstractHandlerMethodExceptionResolver.java:74) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver.resolveException(AbstractHandlerExceptionResolver.java:175) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at org.springframework.web.servlet.handler.HandlerExceptionResolverComposite.resolveException(HandlerExceptionResolverComposite.java:80) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at org.springframework.web.servlet.DispatcherServlet.processHandlerException(DispatcherServlet.java:1357) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at org.springframework.test.web.servlet.TestDispatcherServlet.processHandlerException(TestDispatcherServlet.java:144) ~[spring-test-6.1.5.jar:6.1.5]
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1160) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1106) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564) ~[tomcat-embed-core-10.1.19.jar:6.0]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at org.springframework.test.web.servlet.TestDispatcherServlet.service(TestDispatcherServlet.java:72) ~[spring-test-6.1.5.jar:6.1.5]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) ~[tomcat-embed-core-10.1.19.jar:6.0]
+	at org.springframework.mock.web.MockFilterChain$ServletFilterProxy.doFilter(MockFilterChain.java:165) ~[spring-test-6.1.5.jar:6.1.5]
+	at org.springframework.mock.web.MockFilterChain.doFilter(MockFilterChain.java:132) ~[spring-test-6.1.5.jar:6.1.5]
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:108) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.security.web.FilterChainProxy.lambda$doFilterInternal$3(FilterChainProxy.java:231) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$FilterObservation$SimpleFilterObservation.lambda$wrap$1(ObservationFilterChainDecorator.java:479) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$AroundFilterObservation$SimpleAroundFilterObservation.lambda$wrap$1(ObservationFilterChainDecorator.java:340) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator.lambda$wrapSecured$0(ObservationFilterChainDecorator.java:82) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:128) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.access.intercept.AuthorizationFilter.doFilter(AuthorizationFilter.java:100) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:126) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:120) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.session.SessionManagementFilter.doFilter(SessionManagementFilter.java:131) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.session.SessionManagementFilter.doFilter(SessionManagementFilter.java:85) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.authentication.AnonymousAuthenticationFilter.doFilter(AnonymousAuthenticationFilter.java:100) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:179) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.savedrequest.RequestCacheAwareFilter.doFilter(RequestCacheAwareFilter.java:63) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:107) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:93) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.CorsFilter.doFilterInternal(CorsFilter.java:91) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.header.HeaderWriterFilter.doHeadersAfter(HeaderWriterFilter.java:90) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:75) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:82) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:69) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:62) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.session.DisableEncodeUrlFilter.doFilterInternal(DisableEncodeUrlFilter.java:42) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$AroundFilterObservation$SimpleAroundFilterObservation.lambda$wrap$0(ObservationFilterChainDecorator.java:323) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:224) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:233) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:191) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:113) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.web.servlet.handler.HandlerMappingIntrospector.lambda$createCacheFilter$3(HandlerMappingIntrospector.java:195) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:113) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.web.filter.CompositeFilter.doFilter(CompositeFilter.java:74) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.security.config.annotation.web.configuration.WebMvcSecurityConfiguration$CompositeFilterChainProxy.doFilter(WebMvcSecurityConfiguration.java:230) ~[spring-security-config-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:352) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:268) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.test.web.servlet.setup.MockMvcFilterDecorator.doFilter(MockMvcFilterDecorator.java:151) ~[spring-test-6.1.5.jar:6.1.5]
+	at org.springframework.mock.web.MockFilterChain.doFilter(MockFilterChain.java:132) ~[spring-test-6.1.5.jar:6.1.5]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.test.web.servlet.setup.MockMvcFilterDecorator.doFilter(MockMvcFilterDecorator.java:151) ~[spring-test-6.1.5.jar:6.1.5]
+	at org.springframework.mock.web.MockFilterChain.doFilter(MockFilterChain.java:132) ~[spring-test-6.1.5.jar:6.1.5]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.test.web.servlet.setup.MockMvcFilterDecorator.doFilter(MockMvcFilterDecorator.java:151) ~[spring-test-6.1.5.jar:6.1.5]
+	at org.springframework.mock.web.MockFilterChain.doFilter(MockFilterChain.java:132) ~[spring-test-6.1.5.jar:6.1.5]
+	at org.springframework.web.filter.ServerHttpObservationFilter.doFilterInternal(ServerHttpObservationFilter.java:109) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.test.web.servlet.setup.MockMvcFilterDecorator.doFilter(MockMvcFilterDecorator.java:151) ~[spring-test-6.1.5.jar:6.1.5]
+	at org.springframework.mock.web.MockFilterChain.doFilter(MockFilterChain.java:132) ~[spring-test-6.1.5.jar:6.1.5]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.test.web.servlet.setup.MockMvcFilterDecorator.doFilter(MockMvcFilterDecorator.java:151) ~[spring-test-6.1.5.jar:6.1.5]
+	at org.springframework.mock.web.MockFilterChain.doFilter(MockFilterChain.java:132) ~[spring-test-6.1.5.jar:6.1.5]
+	at org.springframework.test.web.servlet.MockMvc.perform(MockMvc.java:201) ~[spring-test-6.1.5.jar:6.1.5]
+	at com.seveneleven.quantity_measurement_app.QuantityMeasurementApplicationTests.testContentNegotiation_XML(QuantityMeasurementApplicationTests.java:244) ~[test-classes/:na]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[na:na]
+	at org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:728) ~[junit-platform-commons-1.10.2.jar:1.10.2]
+	at org.junit.jupiter.engine.execution.MethodInvocation.proceed(MethodInvocation.java:60) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$ValidatingInvocation.proceed(InvocationInterceptorChain.java:131) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.extension.TimeoutExtension.intercept(TimeoutExtension.java:156) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestableMethod(TimeoutExtension.java:147) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestMethod(TimeoutExtension.java:86) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker$ReflectiveInterceptorCall.lambda$ofVoidMethod$0(InterceptingExecutableInvoker.java:103) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.lambda$invoke$0(InterceptingExecutableInvoker.java:93) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$InterceptedInvocation.proceed(InvocationInterceptorChain.java:106) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.proceed(InvocationInterceptorChain.java:64) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.chainAndInvoke(InvocationInterceptorChain.java:45) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.invoke(InvocationInterceptorChain.java:37) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.invoke(InterceptingExecutableInvoker.java:92) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.invoke(InterceptingExecutableInvoker.java:86) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeTestMethod$7(TestMethodTestDescriptor.java:218) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestMethod(TestMethodTestDescriptor.java:214) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:139) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:69) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:151) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596) ~[na:na]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596) ~[na:na]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:198) ~[junit-platform-launcher-1.10.2.jar:1.10.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:169) ~[junit-platform-launcher-1.10.2.jar:1.10.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:93) ~[junit-platform-launcher-1.10.2.jar:1.10.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:58) ~[junit-platform-launcher-1.10.2.jar:1.10.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:141) ~[junit-platform-launcher-1.10.2.jar:1.10.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:57) ~[junit-platform-launcher-1.10.2.jar:1.10.2]
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:103) ~[junit-platform-launcher-1.10.2.jar:1.10.2]
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:85) ~[junit-platform-launcher-1.10.2.jar:1.10.2]
+	at org.junit.platform.launcher.core.DelegatingLauncher.execute(DelegatingLauncher.java:47) ~[junit-platform-launcher-1.10.2.jar:1.10.2]
+	at org.apache.maven.surefire.junitplatform.LazyLauncher.execute(LazyLauncher.java:56) ~[surefire-junit-platform-3.1.2.jar:3.1.2]
+	at org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.execute(JUnitPlatformProvider.java:184) ~[surefire-junit-platform-3.1.2.jar:3.1.2]
+	at org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.invokeAllTests(JUnitPlatformProvider.java:148) ~[surefire-junit-platform-3.1.2.jar:3.1.2]
+	at org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.invoke(JUnitPlatformProvider.java:122) ~[surefire-junit-platform-3.1.2.jar:3.1.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385) ~[surefire-booter-3.1.2.jar:3.1.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162) ~[surefire-booter-3.1.2.jar:3.1.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507) ~[surefire-booter-3.1.2.jar:3.1.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495) ~[surefire-booter-3.1.2.jar:3.1.2]
+
+2026-04-06T14:26:33.671+05:30  WARN 212 --- [main] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpMediaTypeNotAcceptableException: No acceptable representation]
+2026-04-06T14:26:33.718+05:30  INFO 212 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:26:33.719+05:30  INFO 212 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:26:33.743+05:30  INFO 212 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:26:33.743+05:30  INFO 212 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: INCHES for measurement type: LengthUnit
+2026-04-06T14:26:33.752+05:30  INFO 212 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:26:33.753+05:30  INFO 212 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: INCHES for measurement type: LengthUnit
+2026-04-06T14:26:33.799+05:30  INFO 212 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:26:33.800+05:30  INFO 212 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:26:33.847+05:30  INFO 212 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: YARDS for measurement type: LengthUnit
+2026-04-06T14:26:33.848+05:30  INFO 212 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:26:33.849+05:30 ERROR 212 --- [http-nio-127.0.0.1-auto-1-exec-3] c.s.q.s.QuantityMeasurementServiceImpl   : Operation failed: Division by zero
+2026-04-06T14:26:33.855+05:30 ERROR 212 --- [http-nio-127.0.0.1-auto-1-exec-3] c.s.q.exception.GlobalExceptionHandler   : Handling global exception: Division by zero for request path: /api/v1/quantities/divide
+2026-04-06T14:28:19.866+05:30  INFO 23872 --- [main] .s.q.c.QuantityMeasurementControllerTest : Starting QuantityMeasurementControllerTest using Java 21.0.10 with PID 23872 (started by rsin3607 in C:\Users\rsin3607\OneDrive - 7-Eleven, Inc\Desktop\development\7-11apps\CoreProgrammingApps\quantity-measurement-app\quantity-measurement-app)
+2026-04-06T14:28:19.869+05:30  INFO 23872 --- [main] .s.q.c.QuantityMeasurementControllerTest : No active profile set, falling back to 1 default profile: "default"
+2026-04-06T14:28:22.346+05:30  WARN 23872 --- [main] .s.s.UserDetailsServiceAutoConfiguration : 
+
+Using generated security password: cef4c20b-fbce-4673-9a59-fef2686efe90
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2026-04-06T14:28:22.593+05:30  INFO 23872 --- [main] .s.q.c.QuantityMeasurementControllerTest : Started QuantityMeasurementControllerTest in 3.218 seconds (process running for 4.539)
+2026-04-06T14:28:22.908+05:30  INFO 23872 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:28:22.911+05:30  INFO 23872 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: INCHES for measurement type: LengthUnit
+2026-04-06T14:28:22.973+05:30  INFO 23872 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:28:22.974+05:30  INFO 23872 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: INCHES for measurement type: LengthUnit
+2026-04-06T14:28:23.054+05:30  INFO 23872 --- [main] .s.q.QuantityMeasurementApplicationTests : Starting QuantityMeasurementApplicationTests using Java 21.0.10 with PID 23872 (started by rsin3607 in C:\Users\rsin3607\OneDrive - 7-Eleven, Inc\Desktop\development\7-11apps\CoreProgrammingApps\quantity-measurement-app\quantity-measurement-app)
+2026-04-06T14:28:23.054+05:30  INFO 23872 --- [main] .s.q.QuantityMeasurementApplicationTests : No active profile set, falling back to 1 default profile: "default"
+2026-04-06T14:28:27.715+05:30  WARN 23872 --- [main] .s.s.UserDetailsServiceAutoConfiguration : 
+
+Using generated security password: cc0fa838-0a70-4d99-9499-1474d12416f0
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2026-04-06T14:28:28.566+05:30  INFO 23872 --- [main] .s.q.QuantityMeasurementApplicationTests : Started QuantityMeasurementApplicationTests in 5.554 seconds (process running for 10.513)
+2026-04-06T14:28:28.777+05:30  INFO 23872 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:28:28.777+05:30  INFO 23872 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: INCHES for measurement type: LengthUnit
+2026-04-06T14:28:29.064+05:30  INFO 23872 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:28:29.065+05:30  INFO 23872 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: INCHES for measurement type: LengthUnit
+2026-04-06T14:28:29.095+05:30  INFO 23872 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: GALLON for measurement type: VolumeUnit
+2026-04-06T14:28:29.096+05:30  INFO 23872 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: LITRE for measurement type: VolumeUnit
+2026-04-06T14:28:29.126+05:30  INFO 23872 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FAHRENHEIT for measurement type: TemperatureUnit
+2026-04-06T14:28:29.127+05:30  INFO 23872 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: CELSIUS for measurement type: TemperatureUnit
+2026-04-06T14:28:29.315+05:30  INFO 23872 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: CELSIUS for measurement type: TemperatureUnit
+2026-04-06T14:28:29.317+05:30  INFO 23872 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FAHRENHEIT for measurement type: TemperatureUnit
+2026-04-06T14:28:29.346+05:30  INFO 23872 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: GALLON for measurement type: VolumeUnit
+2026-04-06T14:28:29.347+05:30  INFO 23872 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: LITRE for measurement type: VolumeUnit
+2026-04-06T14:28:29.378+05:30  INFO 23872 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:28:29.379+05:30  INFO 23872 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: INCHES for measurement type: LengthUnit
+2026-04-06T14:28:29.380+05:30  INFO 23872 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: INCHES for measurement type: LengthUnit
+2026-04-06T14:28:29.408+05:30  INFO 23872 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:28:29.409+05:30  INFO 23872 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: INCHES for measurement type: LengthUnit
+2026-04-06T14:28:29.439+05:30  INFO 23872 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:28:29.440+05:30  INFO 23872 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: INCHES for measurement type: LengthUnit
+2026-04-06T14:28:29.440+05:30  INFO 23872 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: INCHES for measurement type: LengthUnit
+2026-04-06T14:28:29.534+05:30  INFO 23872 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: YARDS for measurement type: LengthUnit
+2026-04-06T14:28:29.535+05:30  INFO 23872 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:28:29.739+05:30  INFO 23872 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: YARDS for measurement type: LengthUnit
+2026-04-06T14:28:29.739+05:30  INFO 23872 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:28:29.741+05:30 ERROR 23872 --- [http-nio-127.0.0.1-auto-1-exec-4] c.s.q.s.QuantityMeasurementServiceImpl   : Operation failed: Division by zero
+2026-04-06T14:28:29.795+05:30 ERROR 23872 --- [http-nio-127.0.0.1-auto-1-exec-4] c.s.q.exception.GlobalExceptionHandler   : Handling global exception: Division by zero for request path: /api/v1/quantities/divide
+2026-04-06T14:28:29.833+05:30  INFO 23872 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: BAD_UNIT for measurement type: LengthUnit
+2026-04-06T14:28:29.834+05:30  INFO 23872 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:28:29.842+05:30  INFO 23872 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: BAD_TYPE
+2026-04-06T14:28:29.842+05:30  INFO 23872 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:28:29.855+05:30  INFO 23872 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:28:29.857+05:30  INFO 23872 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: INCHES for measurement type: LengthUnit
+2026-04-06T14:28:29.870+05:30  INFO 23872 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:28:29.870+05:30  INFO 23872 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: INCHES for measurement type: LengthUnit
+2026-04-06T14:28:29.884+05:30  INFO 23872 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:28:29.885+05:30  INFO 23872 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:28:29.922+05:30 ERROR 23872 --- [http-nio-127.0.0.1-auto-1-exec-9] c.s.q.exception.GlobalExceptionHandler   : Handling global exception: No static resource h2-console. for request path: /h2-console
+2026-04-06T14:28:30.106+05:30 ERROR 23872 --- [main] c.s.q.exception.GlobalExceptionHandler   : Handling global exception: No acceptable representation for request path: /api/v1/quantities/history/errored
+2026-04-06T14:28:30.106+05:30  WARN 23872 --- [main] .m.m.a.ExceptionHandlerExceptionResolver : Failure in @ExceptionHandler com.seveneleven.quantity_measurement_app.exception.GlobalExceptionHandler#handleGlobalException(Exception, WebRequest)
+
+org.springframework.web.HttpMediaTypeNotAcceptableException: No acceptable representation
+	at org.springframework.web.servlet.mvc.method.annotation.AbstractMessageConverterMethodProcessor.writeWithMessageConverters(AbstractMessageConverterMethodProcessor.java:256) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at org.springframework.web.servlet.mvc.method.annotation.HttpEntityMethodProcessor.handleReturnValue(HttpEntityMethodProcessor.java:245) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at org.springframework.web.method.support.HandlerMethodReturnValueHandlerComposite.handleReturnValue(HandlerMethodReturnValueHandlerComposite.java:78) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:136) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver.doResolveHandlerMethodException(ExceptionHandlerExceptionResolver.java:432) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodExceptionResolver.doResolveException(AbstractHandlerMethodExceptionResolver.java:74) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver.resolveException(AbstractHandlerExceptionResolver.java:175) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at org.springframework.web.servlet.handler.HandlerExceptionResolverComposite.resolveException(HandlerExceptionResolverComposite.java:80) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at org.springframework.web.servlet.DispatcherServlet.processHandlerException(DispatcherServlet.java:1357) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at org.springframework.test.web.servlet.TestDispatcherServlet.processHandlerException(TestDispatcherServlet.java:144) ~[spring-test-6.1.5.jar:6.1.5]
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1160) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1106) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564) ~[tomcat-embed-core-10.1.19.jar:6.0]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at org.springframework.test.web.servlet.TestDispatcherServlet.service(TestDispatcherServlet.java:72) ~[spring-test-6.1.5.jar:6.1.5]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) ~[tomcat-embed-core-10.1.19.jar:6.0]
+	at org.springframework.mock.web.MockFilterChain$ServletFilterProxy.doFilter(MockFilterChain.java:165) ~[spring-test-6.1.5.jar:6.1.5]
+	at org.springframework.mock.web.MockFilterChain.doFilter(MockFilterChain.java:132) ~[spring-test-6.1.5.jar:6.1.5]
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:108) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.security.web.FilterChainProxy.lambda$doFilterInternal$3(FilterChainProxy.java:231) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$FilterObservation$SimpleFilterObservation.lambda$wrap$1(ObservationFilterChainDecorator.java:479) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$AroundFilterObservation$SimpleAroundFilterObservation.lambda$wrap$1(ObservationFilterChainDecorator.java:340) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator.lambda$wrapSecured$0(ObservationFilterChainDecorator.java:82) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:128) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.access.intercept.AuthorizationFilter.doFilter(AuthorizationFilter.java:100) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:126) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:120) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.session.SessionManagementFilter.doFilter(SessionManagementFilter.java:131) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.session.SessionManagementFilter.doFilter(SessionManagementFilter.java:85) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.authentication.AnonymousAuthenticationFilter.doFilter(AnonymousAuthenticationFilter.java:100) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:179) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.savedrequest.RequestCacheAwareFilter.doFilter(RequestCacheAwareFilter.java:63) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:107) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:93) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.CorsFilter.doFilterInternal(CorsFilter.java:91) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.header.HeaderWriterFilter.doHeadersAfter(HeaderWriterFilter.java:90) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:75) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:82) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:69) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:62) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.session.DisableEncodeUrlFilter.doFilterInternal(DisableEncodeUrlFilter.java:42) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$AroundFilterObservation$SimpleAroundFilterObservation.lambda$wrap$0(ObservationFilterChainDecorator.java:323) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:224) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:233) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:191) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:113) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.web.servlet.handler.HandlerMappingIntrospector.lambda$createCacheFilter$3(HandlerMappingIntrospector.java:195) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:113) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.web.filter.CompositeFilter.doFilter(CompositeFilter.java:74) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.security.config.annotation.web.configuration.WebMvcSecurityConfiguration$CompositeFilterChainProxy.doFilter(WebMvcSecurityConfiguration.java:230) ~[spring-security-config-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:352) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:268) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.test.web.servlet.setup.MockMvcFilterDecorator.doFilter(MockMvcFilterDecorator.java:151) ~[spring-test-6.1.5.jar:6.1.5]
+	at org.springframework.mock.web.MockFilterChain.doFilter(MockFilterChain.java:132) ~[spring-test-6.1.5.jar:6.1.5]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.test.web.servlet.setup.MockMvcFilterDecorator.doFilter(MockMvcFilterDecorator.java:151) ~[spring-test-6.1.5.jar:6.1.5]
+	at org.springframework.mock.web.MockFilterChain.doFilter(MockFilterChain.java:132) ~[spring-test-6.1.5.jar:6.1.5]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.test.web.servlet.setup.MockMvcFilterDecorator.doFilter(MockMvcFilterDecorator.java:151) ~[spring-test-6.1.5.jar:6.1.5]
+	at org.springframework.mock.web.MockFilterChain.doFilter(MockFilterChain.java:132) ~[spring-test-6.1.5.jar:6.1.5]
+	at org.springframework.web.filter.ServerHttpObservationFilter.doFilterInternal(ServerHttpObservationFilter.java:109) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.test.web.servlet.setup.MockMvcFilterDecorator.doFilter(MockMvcFilterDecorator.java:151) ~[spring-test-6.1.5.jar:6.1.5]
+	at org.springframework.mock.web.MockFilterChain.doFilter(MockFilterChain.java:132) ~[spring-test-6.1.5.jar:6.1.5]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.test.web.servlet.setup.MockMvcFilterDecorator.doFilter(MockMvcFilterDecorator.java:151) ~[spring-test-6.1.5.jar:6.1.5]
+	at org.springframework.mock.web.MockFilterChain.doFilter(MockFilterChain.java:132) ~[spring-test-6.1.5.jar:6.1.5]
+	at org.springframework.test.web.servlet.MockMvc.perform(MockMvc.java:201) ~[spring-test-6.1.5.jar:6.1.5]
+	at com.seveneleven.quantity_measurement_app.QuantityMeasurementApplicationTests.testContentNegotiation_XML(QuantityMeasurementApplicationTests.java:244) ~[test-classes/:na]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[na:na]
+	at org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:728) ~[junit-platform-commons-1.10.2.jar:1.10.2]
+	at org.junit.jupiter.engine.execution.MethodInvocation.proceed(MethodInvocation.java:60) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$ValidatingInvocation.proceed(InvocationInterceptorChain.java:131) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.extension.TimeoutExtension.intercept(TimeoutExtension.java:156) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestableMethod(TimeoutExtension.java:147) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestMethod(TimeoutExtension.java:86) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker$ReflectiveInterceptorCall.lambda$ofVoidMethod$0(InterceptingExecutableInvoker.java:103) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.lambda$invoke$0(InterceptingExecutableInvoker.java:93) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$InterceptedInvocation.proceed(InvocationInterceptorChain.java:106) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.proceed(InvocationInterceptorChain.java:64) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.chainAndInvoke(InvocationInterceptorChain.java:45) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.invoke(InvocationInterceptorChain.java:37) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.invoke(InterceptingExecutableInvoker.java:92) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.invoke(InterceptingExecutableInvoker.java:86) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeTestMethod$7(TestMethodTestDescriptor.java:218) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestMethod(TestMethodTestDescriptor.java:214) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:139) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:69) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:151) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596) ~[na:na]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596) ~[na:na]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:198) ~[junit-platform-launcher-1.10.2.jar:1.10.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:169) ~[junit-platform-launcher-1.10.2.jar:1.10.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:93) ~[junit-platform-launcher-1.10.2.jar:1.10.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:58) ~[junit-platform-launcher-1.10.2.jar:1.10.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:141) ~[junit-platform-launcher-1.10.2.jar:1.10.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:57) ~[junit-platform-launcher-1.10.2.jar:1.10.2]
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:103) ~[junit-platform-launcher-1.10.2.jar:1.10.2]
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:85) ~[junit-platform-launcher-1.10.2.jar:1.10.2]
+	at org.junit.platform.launcher.core.DelegatingLauncher.execute(DelegatingLauncher.java:47) ~[junit-platform-launcher-1.10.2.jar:1.10.2]
+	at org.apache.maven.surefire.junitplatform.LazyLauncher.execute(LazyLauncher.java:56) ~[surefire-junit-platform-3.1.2.jar:3.1.2]
+	at org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.execute(JUnitPlatformProvider.java:184) ~[surefire-junit-platform-3.1.2.jar:3.1.2]
+	at org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.invokeAllTests(JUnitPlatformProvider.java:148) ~[surefire-junit-platform-3.1.2.jar:3.1.2]
+	at org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.invoke(JUnitPlatformProvider.java:122) ~[surefire-junit-platform-3.1.2.jar:3.1.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385) ~[surefire-booter-3.1.2.jar:3.1.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162) ~[surefire-booter-3.1.2.jar:3.1.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507) ~[surefire-booter-3.1.2.jar:3.1.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495) ~[surefire-booter-3.1.2.jar:3.1.2]
+
+2026-04-06T14:28:30.114+05:30  WARN 23872 --- [main] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpMediaTypeNotAcceptableException: No acceptable representation]
+2026-04-06T14:28:30.163+05:30  INFO 23872 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:28:30.163+05:30  INFO 23872 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:28:30.216+05:30  INFO 23872 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:28:30.216+05:30  INFO 23872 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: INCHES for measurement type: LengthUnit
+2026-04-06T14:28:30.226+05:30  INFO 23872 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:28:30.226+05:30  INFO 23872 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: INCHES for measurement type: LengthUnit
+2026-04-06T14:28:30.276+05:30  INFO 23872 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:28:30.276+05:30  INFO 23872 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:28:30.318+05:30  INFO 23872 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: YARDS for measurement type: LengthUnit
+2026-04-06T14:28:30.319+05:30  INFO 23872 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T14:28:30.320+05:30 ERROR 23872 --- [http-nio-127.0.0.1-auto-1-exec-3] c.s.q.s.QuantityMeasurementServiceImpl   : Operation failed: Division by zero
+2026-04-06T14:28:30.325+05:30 ERROR 23872 --- [http-nio-127.0.0.1-auto-1-exec-3] c.s.q.exception.GlobalExceptionHandler   : Handling global exception: Division by zero for request path: /api/v1/quantities/divide
+2026-04-06T15:09:36.040+05:30  INFO 21052 --- [main] .s.q.c.QuantityMeasurementControllerTest : Starting QuantityMeasurementControllerTest using Java 21.0.10 with PID 21052 (started by rsin3607 in C:\Users\rsin3607\OneDrive - 7-Eleven, Inc\Desktop\development\7-11apps\CoreProgrammingApps\quantity-measurement-app\quantity-measurement-app)
+2026-04-06T15:09:36.045+05:30  INFO 21052 --- [main] .s.q.c.QuantityMeasurementControllerTest : No active profile set, falling back to 1 default profile: "default"
+2026-04-06T15:09:38.601+05:30  WARN 21052 --- [main] .s.s.UserDetailsServiceAutoConfiguration : 
+
+Using generated security password: 74764b96-0683-4870-ad47-82eb2554298d
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2026-04-06T15:09:38.849+05:30  INFO 21052 --- [main] .s.q.c.QuantityMeasurementControllerTest : Started QuantityMeasurementControllerTest in 3.304 seconds (process running for 4.73)
+2026-04-06T15:09:39.149+05:30  INFO 21052 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T15:09:39.152+05:30  INFO 21052 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: INCHES for measurement type: LengthUnit
+2026-04-06T15:09:39.209+05:30  INFO 21052 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T15:09:39.210+05:30  INFO 21052 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: INCHES for measurement type: LengthUnit
+2026-04-06T15:09:39.289+05:30  INFO 21052 --- [main] .s.q.QuantityMeasurementApplicationTests : Starting QuantityMeasurementApplicationTests using Java 21.0.10 with PID 21052 (started by rsin3607 in C:\Users\rsin3607\OneDrive - 7-Eleven, Inc\Desktop\development\7-11apps\CoreProgrammingApps\quantity-measurement-app\quantity-measurement-app)
+2026-04-06T15:09:39.290+05:30  INFO 21052 --- [main] .s.q.QuantityMeasurementApplicationTests : No active profile set, falling back to 1 default profile: "default"
+2026-04-06T15:09:43.913+05:30  WARN 21052 --- [main] .s.s.UserDetailsServiceAutoConfiguration : 
+
+Using generated security password: d1a9fbc9-d874-45f1-b39c-dffe9c9c9726
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2026-04-06T15:09:44.610+05:30  INFO 21052 --- [main] .s.q.QuantityMeasurementApplicationTests : Started QuantityMeasurementApplicationTests in 5.358 seconds (process running for 10.49)
+2026-04-06T15:09:44.796+05:30  INFO 21052 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T15:09:44.797+05:30  INFO 21052 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: INCHES for measurement type: LengthUnit
+2026-04-06T15:09:45.019+05:30  INFO 21052 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T15:09:45.020+05:30  INFO 21052 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: INCHES for measurement type: LengthUnit
+2026-04-06T15:09:45.050+05:30  INFO 21052 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: GALLON for measurement type: VolumeUnit
+2026-04-06T15:09:45.052+05:30  INFO 21052 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: LITRE for measurement type: VolumeUnit
+2026-04-06T15:09:45.082+05:30  INFO 21052 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FAHRENHEIT for measurement type: TemperatureUnit
+2026-04-06T15:09:45.084+05:30  INFO 21052 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: CELSIUS for measurement type: TemperatureUnit
+2026-04-06T15:09:45.113+05:30  INFO 21052 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: CELSIUS for measurement type: TemperatureUnit
+2026-04-06T15:09:45.114+05:30  INFO 21052 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FAHRENHEIT for measurement type: TemperatureUnit
+2026-04-06T15:09:45.145+05:30  INFO 21052 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: GALLON for measurement type: VolumeUnit
+2026-04-06T15:09:45.146+05:30  INFO 21052 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: LITRE for measurement type: VolumeUnit
+2026-04-06T15:09:45.177+05:30  INFO 21052 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T15:09:45.177+05:30  INFO 21052 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: INCHES for measurement type: LengthUnit
+2026-04-06T15:09:45.178+05:30  INFO 21052 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: INCHES for measurement type: LengthUnit
+2026-04-06T15:09:45.208+05:30  INFO 21052 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T15:09:45.209+05:30  INFO 21052 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: INCHES for measurement type: LengthUnit
+2026-04-06T15:09:45.224+05:30  INFO 21052 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T15:09:45.224+05:30  INFO 21052 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: INCHES for measurement type: LengthUnit
+2026-04-06T15:09:45.226+05:30  INFO 21052 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: INCHES for measurement type: LengthUnit
+2026-04-06T15:09:45.256+05:30  INFO 21052 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: YARDS for measurement type: LengthUnit
+2026-04-06T15:09:45.257+05:30  INFO 21052 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T15:09:45.459+05:30  INFO 21052 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: YARDS for measurement type: LengthUnit
+2026-04-06T15:09:45.459+05:30  INFO 21052 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T15:09:45.462+05:30 ERROR 21052 --- [http-nio-127.0.0.1-auto-1-exec-4] c.s.q.s.QuantityMeasurementServiceImpl   : Operation failed: Division by zero
+2026-04-06T15:09:45.472+05:30 ERROR 21052 --- [http-nio-127.0.0.1-auto-1-exec-4] c.s.q.exception.GlobalExceptionHandler   : Handling global exception: Division by zero for request path: /api/v1/quantities/divide
+2026-04-06T15:09:45.507+05:30  INFO 21052 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: BAD_UNIT for measurement type: LengthUnit
+2026-04-06T15:09:45.507+05:30  INFO 21052 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T15:09:45.517+05:30  INFO 21052 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: BAD_TYPE
+2026-04-06T15:09:45.517+05:30  INFO 21052 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T15:09:45.530+05:30  INFO 21052 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T15:09:45.530+05:30  INFO 21052 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: INCHES for measurement type: LengthUnit
+2026-04-06T15:09:45.545+05:30  INFO 21052 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T15:09:45.545+05:30  INFO 21052 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: INCHES for measurement type: LengthUnit
+2026-04-06T15:09:45.559+05:30  INFO 21052 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T15:09:45.559+05:30  INFO 21052 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T15:09:45.596+05:30 ERROR 21052 --- [http-nio-127.0.0.1-auto-1-exec-9] c.s.q.exception.GlobalExceptionHandler   : Handling global exception: No static resource h2-console. for request path: /h2-console
+2026-04-06T15:09:45.720+05:30 ERROR 21052 --- [main] c.s.q.exception.GlobalExceptionHandler   : Handling global exception: No acceptable representation for request path: /api/v1/quantities/history/errored
+2026-04-06T15:09:45.721+05:30  WARN 21052 --- [main] .m.m.a.ExceptionHandlerExceptionResolver : Failure in @ExceptionHandler com.seveneleven.quantity_measurement_app.exception.GlobalExceptionHandler#handleGlobalException(Exception, WebRequest)
+
+org.springframework.web.HttpMediaTypeNotAcceptableException: No acceptable representation
+	at org.springframework.web.servlet.mvc.method.annotation.AbstractMessageConverterMethodProcessor.writeWithMessageConverters(AbstractMessageConverterMethodProcessor.java:256) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at org.springframework.web.servlet.mvc.method.annotation.HttpEntityMethodProcessor.handleReturnValue(HttpEntityMethodProcessor.java:245) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at org.springframework.web.method.support.HandlerMethodReturnValueHandlerComposite.handleReturnValue(HandlerMethodReturnValueHandlerComposite.java:78) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:136) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver.doResolveHandlerMethodException(ExceptionHandlerExceptionResolver.java:432) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodExceptionResolver.doResolveException(AbstractHandlerMethodExceptionResolver.java:74) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver.resolveException(AbstractHandlerExceptionResolver.java:175) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at org.springframework.web.servlet.handler.HandlerExceptionResolverComposite.resolveException(HandlerExceptionResolverComposite.java:80) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at org.springframework.web.servlet.DispatcherServlet.processHandlerException(DispatcherServlet.java:1357) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at org.springframework.test.web.servlet.TestDispatcherServlet.processHandlerException(TestDispatcherServlet.java:144) ~[spring-test-6.1.5.jar:6.1.5]
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1160) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1106) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564) ~[tomcat-embed-core-10.1.19.jar:6.0]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at org.springframework.test.web.servlet.TestDispatcherServlet.service(TestDispatcherServlet.java:72) ~[spring-test-6.1.5.jar:6.1.5]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) ~[tomcat-embed-core-10.1.19.jar:6.0]
+	at org.springframework.mock.web.MockFilterChain$ServletFilterProxy.doFilter(MockFilterChain.java:165) ~[spring-test-6.1.5.jar:6.1.5]
+	at org.springframework.mock.web.MockFilterChain.doFilter(MockFilterChain.java:132) ~[spring-test-6.1.5.jar:6.1.5]
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:108) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.security.web.FilterChainProxy.lambda$doFilterInternal$3(FilterChainProxy.java:231) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$FilterObservation$SimpleFilterObservation.lambda$wrap$1(ObservationFilterChainDecorator.java:479) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$AroundFilterObservation$SimpleAroundFilterObservation.lambda$wrap$1(ObservationFilterChainDecorator.java:340) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator.lambda$wrapSecured$0(ObservationFilterChainDecorator.java:82) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:128) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.access.intercept.AuthorizationFilter.doFilter(AuthorizationFilter.java:100) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:126) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:120) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.session.SessionManagementFilter.doFilter(SessionManagementFilter.java:131) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.session.SessionManagementFilter.doFilter(SessionManagementFilter.java:85) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.authentication.AnonymousAuthenticationFilter.doFilter(AnonymousAuthenticationFilter.java:100) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:179) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.savedrequest.RequestCacheAwareFilter.doFilter(RequestCacheAwareFilter.java:63) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:107) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:93) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.CorsFilter.doFilterInternal(CorsFilter.java:91) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.header.HeaderWriterFilter.doHeadersAfter(HeaderWriterFilter.java:90) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:75) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:82) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:69) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:62) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.session.DisableEncodeUrlFilter.doFilterInternal(DisableEncodeUrlFilter.java:42) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$AroundFilterObservation$SimpleAroundFilterObservation.lambda$wrap$0(ObservationFilterChainDecorator.java:323) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:224) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:233) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:191) ~[spring-security-web-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:113) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.web.servlet.handler.HandlerMappingIntrospector.lambda$createCacheFilter$3(HandlerMappingIntrospector.java:195) ~[spring-webmvc-6.1.5.jar:6.1.5]
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:113) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.web.filter.CompositeFilter.doFilter(CompositeFilter.java:74) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.security.config.annotation.web.configuration.WebMvcSecurityConfiguration$CompositeFilterChainProxy.doFilter(WebMvcSecurityConfiguration.java:230) ~[spring-security-config-6.2.3.jar:6.2.3]
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:352) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:268) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.test.web.servlet.setup.MockMvcFilterDecorator.doFilter(MockMvcFilterDecorator.java:151) ~[spring-test-6.1.5.jar:6.1.5]
+	at org.springframework.mock.web.MockFilterChain.doFilter(MockFilterChain.java:132) ~[spring-test-6.1.5.jar:6.1.5]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.test.web.servlet.setup.MockMvcFilterDecorator.doFilter(MockMvcFilterDecorator.java:151) ~[spring-test-6.1.5.jar:6.1.5]
+	at org.springframework.mock.web.MockFilterChain.doFilter(MockFilterChain.java:132) ~[spring-test-6.1.5.jar:6.1.5]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.test.web.servlet.setup.MockMvcFilterDecorator.doFilter(MockMvcFilterDecorator.java:151) ~[spring-test-6.1.5.jar:6.1.5]
+	at org.springframework.mock.web.MockFilterChain.doFilter(MockFilterChain.java:132) ~[spring-test-6.1.5.jar:6.1.5]
+	at org.springframework.web.filter.ServerHttpObservationFilter.doFilterInternal(ServerHttpObservationFilter.java:109) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.test.web.servlet.setup.MockMvcFilterDecorator.doFilter(MockMvcFilterDecorator.java:151) ~[spring-test-6.1.5.jar:6.1.5]
+	at org.springframework.mock.web.MockFilterChain.doFilter(MockFilterChain.java:132) ~[spring-test-6.1.5.jar:6.1.5]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.5.jar:6.1.5]
+	at org.springframework.test.web.servlet.setup.MockMvcFilterDecorator.doFilter(MockMvcFilterDecorator.java:151) ~[spring-test-6.1.5.jar:6.1.5]
+	at org.springframework.mock.web.MockFilterChain.doFilter(MockFilterChain.java:132) ~[spring-test-6.1.5.jar:6.1.5]
+	at org.springframework.test.web.servlet.MockMvc.perform(MockMvc.java:201) ~[spring-test-6.1.5.jar:6.1.5]
+	at com.seveneleven.quantity_measurement_app.QuantityMeasurementApplicationTests.testContentNegotiation_XML(QuantityMeasurementApplicationTests.java:244) ~[test-classes/:na]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[na:na]
+	at org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:728) ~[junit-platform-commons-1.10.2.jar:1.10.2]
+	at org.junit.jupiter.engine.execution.MethodInvocation.proceed(MethodInvocation.java:60) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$ValidatingInvocation.proceed(InvocationInterceptorChain.java:131) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.extension.TimeoutExtension.intercept(TimeoutExtension.java:156) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestableMethod(TimeoutExtension.java:147) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestMethod(TimeoutExtension.java:86) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker$ReflectiveInterceptorCall.lambda$ofVoidMethod$0(InterceptingExecutableInvoker.java:103) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.lambda$invoke$0(InterceptingExecutableInvoker.java:93) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$InterceptedInvocation.proceed(InvocationInterceptorChain.java:106) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.proceed(InvocationInterceptorChain.java:64) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.chainAndInvoke(InvocationInterceptorChain.java:45) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.invoke(InvocationInterceptorChain.java:37) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.invoke(InterceptingExecutableInvoker.java:92) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.invoke(InterceptingExecutableInvoker.java:86) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeTestMethod$7(TestMethodTestDescriptor.java:218) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestMethod(TestMethodTestDescriptor.java:214) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:139) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:69) ~[junit-jupiter-engine-5.10.2.jar:5.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:151) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596) ~[na:na]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596) ~[na:na]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54) ~[junit-platform-engine-1.10.2.jar:1.10.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:198) ~[junit-platform-launcher-1.10.2.jar:1.10.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:169) ~[junit-platform-launcher-1.10.2.jar:1.10.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:93) ~[junit-platform-launcher-1.10.2.jar:1.10.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:58) ~[junit-platform-launcher-1.10.2.jar:1.10.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:141) ~[junit-platform-launcher-1.10.2.jar:1.10.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:57) ~[junit-platform-launcher-1.10.2.jar:1.10.2]
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:103) ~[junit-platform-launcher-1.10.2.jar:1.10.2]
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:85) ~[junit-platform-launcher-1.10.2.jar:1.10.2]
+	at org.junit.platform.launcher.core.DelegatingLauncher.execute(DelegatingLauncher.java:47) ~[junit-platform-launcher-1.10.2.jar:1.10.2]
+	at org.apache.maven.surefire.junitplatform.LazyLauncher.execute(LazyLauncher.java:56) ~[surefire-junit-platform-3.1.2.jar:3.1.2]
+	at org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.execute(JUnitPlatformProvider.java:184) ~[surefire-junit-platform-3.1.2.jar:3.1.2]
+	at org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.invokeAllTests(JUnitPlatformProvider.java:148) ~[surefire-junit-platform-3.1.2.jar:3.1.2]
+	at org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.invoke(JUnitPlatformProvider.java:122) ~[surefire-junit-platform-3.1.2.jar:3.1.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385) ~[surefire-booter-3.1.2.jar:3.1.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162) ~[surefire-booter-3.1.2.jar:3.1.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507) ~[surefire-booter-3.1.2.jar:3.1.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495) ~[surefire-booter-3.1.2.jar:3.1.2]
+
+2026-04-06T15:09:45.727+05:30  WARN 21052 --- [main] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpMediaTypeNotAcceptableException: No acceptable representation]
+2026-04-06T15:09:45.778+05:30  INFO 21052 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T15:09:45.779+05:30  INFO 21052 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T15:09:45.804+05:30  INFO 21052 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T15:09:45.805+05:30  INFO 21052 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: INCHES for measurement type: LengthUnit
+2026-04-06T15:09:45.816+05:30  INFO 21052 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T15:09:45.817+05:30  INFO 21052 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: INCHES for measurement type: LengthUnit
+2026-04-06T15:09:45.857+05:30  INFO 21052 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T15:09:45.858+05:30  INFO 21052 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T15:09:45.897+05:30  INFO 21052 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: YARDS for measurement type: LengthUnit
+2026-04-06T15:09:45.897+05:30  INFO 21052 --- [main] c.s.q.model.QuantityDTO                  : Validating unit: FEET for measurement type: LengthUnit
+2026-04-06T15:09:45.898+05:30 ERROR 21052 --- [http-nio-127.0.0.1-auto-1-exec-3] c.s.q.s.QuantityMeasurementServiceImpl   : Operation failed: Division by zero
+2026-04-06T15:09:45.907+05:30 ERROR 21052 --- [http-nio-127.0.0.1-auto-1-exec-3] c.s.q.exception.GlobalExceptionHandler   : Handling global exception: Division by zero for request path: /api/v1/quantities/divide

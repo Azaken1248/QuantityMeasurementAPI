@@ -10,6 +10,7 @@ import org.springframework.web.cors.CorsConfigurationSource;
 import org.springframework.web.cors.UrlBasedCorsConfigurationSource;
 import org.springframework.security.config.annotation.web.configuration.EnableWebSecurity;
 
+
 import java.util.Arrays;
 
 /**
@@ -46,9 +47,13 @@ public class SecurityConfig {
         configuration.setAllowedOrigins(Arrays.asList(
                 "http://localhost:3000",
                 "http://localhost:8080",
+                "http://localhost:5173",
+                "http://localhost:5174",
                 "https://azaken.com",           
                 "https://www.azaken.com",       
-                "https://measurement.azaken.com" 
+                "https://www.measurement.azaken.com",
+                "https://www.quantity.azaken.com"
+                
         ));
         configuration.setAllowedMethods(Arrays.asList("GET", "POST", "PUT", "DELETE", "OPTIONS"));
         configuration.setAllowedHeaders(Arrays.asList("*"));

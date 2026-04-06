@@ -19,28 +19,38 @@ public class QuantityMeasurementServiceImpl implements IQuantityMeasurementServi
 
     @Override
     public QuantityMeasurementDTO compare(QuantityDTO thisQuantity, QuantityDTO thatQuantity) {
-        // We do NOT catch IllegalArgumentException here so the Controller 
-        // can return a 400 Bad Request, passing the "validation fails" tests.
         validateMeasurementTypes(thisQuantity, thatQuantity);
         IMeasurableUnit unit1 = resolveUnit(thisQuantity);
         IMeasurableUnit unit2 = resolveUnit(thatQuantity);
 
-        boolean isEqual = compareValues(unit1, thisQuantity.getValue(), unit2, thatQuantity.getValue());
-        String resultStr = isEqual ? "Equal" : "Not Equal";
+        ComparisonResult comparisonResult = performComparison(unit1, thisQuantity.getValue(), unit2, thatQuantity.getValue());
+        String resultStr = comparisonResult.toString();
 
         QuantityMeasurementEntity entity = new QuantityMeasurementEntity(
-                thisQuantity, thatQuantity, OperationType.COMPARE.name(), resultStr);
+                thisQuantity, thatQuantity, OperationType.COMPARE.name(), comparisonResult);
+        entity.setResultString(resultStr);
         return QuantityMeasurementDTO.from(repository.save(entity));
     }
 
-    private <U extends IMeasurableUnit> boolean compareValues(U thisUnit, double thisValue, U thatUnit, double thatValue) {
+    private <U extends IMeasurableUnit> ComparisonResult performComparison(U thisUnit, double thisValue, U thatUnit, double thatValue) {
         if (thisUnit instanceof TemperatureUnit) {
             double convertedThat = convertTemperatureUnit(thatUnit, thatValue, thisUnit);
-            return Double.compare(Math.round(thisValue * 100.0) / 100.0, Math.round(convertedThat * 100.0) / 100.0) == 0;
+            thisValue = Math.round(thisValue * 100.0) / 100.0;
+            convertedThat = Math.round(convertedThat * 100.0) / 100.0;
+        } else {
+            double baseVal1 = thisValue * getBaseConversionFactor(thisUnit);
+            double baseVal2 = thatValue * getBaseConversionFactor(thatUnit);
+            thisValue = Math.round(baseVal1 * 100.0) / 100.0;
+            thatValue = Math.round(baseVal2 * 100.0) / 100.0;
         }
-        double baseVal1 = thisValue * getBaseConversionFactor(thisUnit);
-        double baseVal2 = thatValue * getBaseConversionFactor(thatUnit);
-        return Double.compare(Math.round(baseVal1 * 100.0) / 100.0, Math.round(baseVal2 * 100.0) / 100.0) == 0;
+
+        if (thisValue < thatValue) {
+            return ComparisonResult.LESS_THAN;
+        } else if (thisValue > thatValue) {
+            return ComparisonResult.GREATER_THAN;
+        } else {
+            return ComparisonResult.EQUAL;
+        }
     }
 
     @Override
@@ -101,27 +111,20 @@ public class QuantityMeasurementServiceImpl implements IQuantityMeasurementServi
 
     @Override
     public QuantityMeasurementDTO divide(QuantityDTO q1, QuantityDTO q2) {
-        // 1. Perform validations (These throw 400s)
         validateMeasurementTypes(q1, q2);
         IMeasurableUnit unit2 = resolveUnit(q2);
 
-        // 2. Check for division by zero before doing the math
         double base2 = q2.getValue() * getBaseConversionFactor(unit2);
 
         if (base2 == 0) {
-            // SAVE the error to DB first so the /history/errored test passes
             saveAndReturnError(q1, q2, "DIVIDE", "Division by zero");
-            
-            // THROW the exception so Spring returns the 500 Internal Server Error
             throw new ArithmeticException("Division by zero");
         }
 
-        // 3. If everything is fine, proceed with the operation
         return executeArithmetic(ArithmeticOperation.DIVIDE, q1, q2, q1);
     }
 
     private QuantityMeasurementDTO executeArithmetic(ArithmeticOperation op, QuantityDTO q1, QuantityDTO q2, QuantityDTO target) {
-        // Logic check: IllegalArgumentExceptions (Validation) are still thrown here and bubbled up.
         validateMeasurementTypes(q1, q2);
         IMeasurableUnit unit1 = resolveUnit(q1);
         IMeasurableUnit unit2 = resolveUnit(q2);
@@ -131,7 +134,6 @@ public class QuantityMeasurementServiceImpl implements IQuantityMeasurementServi
         
         double finalValue;
         if (op == ArithmeticOperation.DIVIDE) {
-            // FIXED: Division result is dimensionless. Do not divide by the target unit factor.
             finalValue = resultValue;
         } else {
             IMeasurableUnit targetU = resolveUnit(target);
@@ -168,11 +170,8 @@ public class QuantityMeasurementServiceImpl implements IQuantityMeasurementServi
         }
     }
 
-    // --- Helper Methods for Unit Resolution ---
-
     private void validateMeasurementTypes(QuantityDTO q1, QuantityDTO q2) {
         if (q2 != null && !q1.getMeasurementType().equals(q2.getMeasurementType())) {
-            // FIXED: Message must match test expectations
             throw new IllegalArgumentException("Invalid Measurement Type");
         }
     }
@@ -186,11 +185,8 @@ public class QuantityMeasurementServiceImpl implements IQuantityMeasurementServi
             if ("WeightUnit".equals(type)) return WeightUnit.valueOf(unit);
             if ("TemperatureUnit".equals(type)) return TemperatureUnit.valueOf(unit);
             
-            // FIXED: Throw specific string for bad measurement type
             throw new IllegalArgumentException("Invalid Measurement Type");
         } catch (IllegalArgumentException e) {
-            // If the message is already "Invalid Measurement Type", just rethrow it.
-            // Otherwise, it was a valueOf fail, meaning the unit string is bad.
             if (e.getMessage().equals("Invalid Measurement Type")) throw e;
             throw new IllegalArgumentException("Unit must be valid");
         }
@@ -203,12 +199,21 @@ public class QuantityMeasurementServiceImpl implements IQuantityMeasurementServi
                 case FEET: return 12.0;
                 case YARDS: return 36.0;
                 case CENTIMETERS: return 1.0 / 2.54;
+                case METERS: return 39.3701;
+                case KILOMETERS: return 39370.1;
+                case MILLIMETERS: return 1.0 / 25.4;
+                case MILES: return 63360.0;
             }
         } else if (unit instanceof VolumeUnit) {
             switch ((VolumeUnit) unit) {
                 case LITRE: return 1.0;
                 case MILLILITER: return 0.001;
                 case GALLON: return 3.78541;
+                case CUBIC_METER: return 1000.0;
+                case CUBIC_CENTIMETER: return 0.001;
+                case FLUID_OUNCE: return 0.0295735;
+                case PINT: return 0.473176;
+                case QUART: return 0.946353;
             }
         } else if (unit instanceof WeightUnit) {
             switch ((WeightUnit) unit) {
@@ -217,6 +222,9 @@ public class QuantityMeasurementServiceImpl implements IQuantityMeasurementServi
                 case MILLIGRAM: return 0.001;
                 case POUND: return 453.592;
                 case TONNE: return 1000000.0;
+                case OUNCE: return 28.3495;
+                case MICROGRAM: return 0.000001;
+                case METRIC_TON: return 1000000.0;
             }
         }
         return 1.0;
@@ -227,8 +235,6 @@ public class QuantityMeasurementServiceImpl implements IQuantityMeasurementServi
         QuantityMeasurementEntity errorEntity = new QuantityMeasurementEntity(q1, q2, operation, errorMsg, true);
         return QuantityMeasurementDTO.from(repository.save(errorEntity));
     }
-
-    // --- History & Analytics Methods ---
 
     @Override
     public List<QuantityMeasurementDTO> getOperationHistory(String operation) {
