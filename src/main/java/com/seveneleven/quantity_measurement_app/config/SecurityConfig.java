@@ -52,7 +52,7 @@ public class SecurityConfig {
                 "https://azaken.com",           
                 "https://www.azaken.com",       
                 "https://www.measurement.azaken.com",
-                "https://www.quantity.azaken.com"
+                "https://quantity.azaken.com"
                 
         ));
         configuration.setAllowedMethods(Arrays.asList("GET", "POST", "PUT", "DELETE", "OPTIONS"));
