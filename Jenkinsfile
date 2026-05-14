@@ -5,17 +5,22 @@ pipeline {
         disableConcurrentBuilds()
     }
 
-    environment {
-        JAVA_HOME = '/usr/lib/jvm/java-17-openjdk-amd64'
-        PATH = "${JAVA_HOME}/bin:${env.PATH}"
-    }
-
     stages {
         stage('Build') {
             steps {
                 echo '--- Starting Build ---'
-                sh 'chmod +x ./mvnw'
-                sh './mvnw clean package -DskipTests'
+                
+                // Using a multi-line shell script to brutally enforce Java 17 for Maven
+                sh '''
+                    export JAVA_HOME=/usr/lib/jvm/java-17-openjdk-amd64
+                    export PATH=$JAVA_HOME/bin:$PATH
+                    
+                    echo "--- Verifying Java Version ---"
+                    java -version
+                    
+                    chmod +x ./mvnw
+                    ./mvnw clean package -DskipTests
+                '''
             }
         }
 
